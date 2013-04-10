@@ -51,7 +51,7 @@ Add Seesaw to `project.clj`
                 [seesaw "x.y.z"]])
 ```
 
-_Replace the Seesaw version with whatever the [latest version tag] (https://github.com/daveray/seesaw/tags] is. See below!_
+_Replace the Seesaw version with whatever the [latest version tag](https://github.com/daveray/seesaw/tags) is. See below!_
 
 Now edit the generated `src/hello_seesaw/core.clj` file:
 
